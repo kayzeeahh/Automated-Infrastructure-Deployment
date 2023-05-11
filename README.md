@@ -1,1 +1,5 @@
 # Automated-Infrastructure-Deployment
+
+One of the key skills when delving into the cloud space is to be able to confidently set up and automated infrastructure deployment. With AWS there are a few ways to achieve this. I will be exploring Cloud Formation and looking at how this tool can be used in an efficient manner to allow a cloud novice to get their fingertips dirty in the world of infrastructure. I will also be looking at other tools that can used in the automated infrastructure space such as Severless tools like Lambda and API gateway endpoins; Highly available deployment using Auto Scaling; Devops skills such as CI/CD with codepipeline; and even infrastructure monitoring using Cloud Watch. 
+
+In this portfolio I will be looking at how to use the AWS console to deploy a variety of infrastructures in the cloud. During these task I will share how I troubleshoot, critically think and navigate the new and everchanging world that is AWS infrastructure. Join me on this journey of learning and professional development.
